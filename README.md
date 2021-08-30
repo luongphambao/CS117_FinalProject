@@ -4,9 +4,9 @@
 # THÀNH VIÊN NHÓM
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|-------------------------:
-| 1      | 19521242      | Lương Phạm Bảo        |Nhóm trưởng |19521676@gm.uit.edu.vn   |
-| 2      | 19520687      | Nguyễn Phú Lộc        |Thành viên  |19521383@gm.uit.edu.vn   |
-| 3      | 19521172      | Đoàn Duy ÂN           |Thành viên  |19521326@gm.uit.edu.vn   |
+| 1      | 19521242      | Lương Phạm Bảo        |Nhóm trưởng |19521242@gm.uit.edu.vn   |
+| 2      | 19520687      | Nguyễn Phú Lộc        |Thành viên  |19520687@gm.uit.edu.vn   |
+| 3      | 19521172      | Đoàn Duy Ân           |Thành viên  |195211726@gm.uit.edu.vn   |
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Tư duy tính toán - Computational Thinking.
