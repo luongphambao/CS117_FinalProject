@@ -6,7 +6,7 @@
 | ------ |:-------------:| ----------------------:|----------:|-------------------------:
 | 1      | 19521242      | Lương Phạm Bảo        |Nhóm trưởng |19521242@gm.uit.edu.vn   |
 | 2      | 19520687      | Nguyễn Phú Lộc        |Thành viên  |19520687@gm.uit.edu.vn   |
-| 3      | 19521172      | Đoàn Duy Ân           |Thành viên  |195211726@gm.uit.edu.vn   |
+| 3      | 19521172      | Đoàn Duy Ân           |Thành viên  |19521172@gm.uit.edu.vn   |
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Tư duy tính toán - Computational Thinking.
