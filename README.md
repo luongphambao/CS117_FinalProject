@@ -30,6 +30,8 @@ Bao gồm các file sau:
 * `modelnb.pkl` - file trọng số của model Naive Bayes
 * `tf_idf.pkl` - file convert các text bình luận thành các feature TF-IDF
 * `vietnamese-stopwords-dash (1).txt` - File chứa các từ stopword vietnam
+* `lr.txt` - File chứa các câu được sinh bởi model logistic regression
+* `svm.txt` - File chứa các câu được sinh bởi model support vector machine
 ### File pdf của báo cáo
 File `CS117-19521242-19520687-1951172.pdf` là báo cáo chi tiết cho đồ án
 ### File word của báo cáo
